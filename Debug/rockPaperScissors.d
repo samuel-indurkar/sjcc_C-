@@ -1,0 +1,1 @@
+rockPaperScissors.o: ../rockPaperScissors.cpp
